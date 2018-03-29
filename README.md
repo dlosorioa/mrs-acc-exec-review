@@ -1,2 +1,1 @@
-# soa-navigation
-Node navigation for the School of Architecture
+Mars and Accenture Executive Review: Initiatives view
