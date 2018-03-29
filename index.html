@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mars and Accenture Executive Review: Initiatives view</title>
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700," media="all" />
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" media="all" />
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i" media="all" />
+  <link rel="stylesheet" type="text/css" href="styles/styles.css">
+</head>
+
+
+<body>
+  <div class="research-network">
+    <!-- container for force layout visualisation  -->
+    <section id="vis">
+      <div class="shadow-top"></div>
+      <div class="shadow-right"></div>
+      <div class="shadow-bottom"></div>
+      <div class="shadow-left"></div>
+    </section>
+    <nav>
+      <a><h2 class="title"></h2></a>
+      <div class="description">
+        <p></p>
+        <a>More</a>
+      </div>
+      <div class="children"></div>
+      <div class="accomplished">
+        <h3 class="name">What's been done</h3>
+        <p></p>
+      </div>
+      <div class="nextSteps">
+        <h3 class="name">Next Steps</h3>
+        <p></p>
+      </div>
+      <div class="needsToChange">
+        <h3 class="name">What needs to Change</h3>
+        <p></p>
+      </div>
+    </nav>
+  </div>
+
+  <div class="placeholders hidden">
+    <div class="category">
+      <h3 class="name"></h3>
+      <ul></ul>
+    </div>
+  </div>
+
+  <script>
+    window.dataUrl = '/data/acc.json';
+  </script>
+
+  <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="/scripts/navigation.js" charset="utf-8"></script>
+
+</body>
+</html>

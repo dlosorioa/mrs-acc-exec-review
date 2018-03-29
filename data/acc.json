@@ -1,0 +1,660 @@
+{
+  "nodes": [
+    {
+      "name": "Tower Grouping",
+      "img": "/img/research.jpg",
+      "expand": 1,
+      "root": 1,
+      "size": 2,
+      "category": "Root",
+      "description": "Tower group descriptions goes here",
+      "children": [
+        {
+          "name": "Technology",
+          "weight": 1
+        },
+        {
+          "name": "Security",
+          "weight": 1
+        },
+        {
+          "name": "MFS",
+          "weight": 1
+        },
+        {
+          "name": "Commercial",
+          "weight": 1
+        },
+        {
+          "name": "Vet Health Group",
+          "weight": 1
+        },
+        {
+          "name": "Connected Solutions",
+          "weight": 1
+        },
+        {
+          "name": "Digital Demand",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Traceability",
+          "weight": 1
+        },
+        {
+          "name": "MWC",
+          "weight": 1
+        },
+        {
+          "name": "Digital Foundations Analytics",
+          "weight": 1
+        },
+        {
+          "name": "Compass",
+          "weight": 1
+        },
+        {
+          "name": "iPaaS",
+          "weight": 1
+        },
+        {
+          "name": "NA Petcare ATLAS",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Green",
+      "children": [
+        {
+          "name": "Digital Identity",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "MFS",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Green",
+      "children": [
+        {
+          "name": "AP Transformation",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Commercial",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Shift to Fixed - 12 weeks",
+          "weight": 1
+        },
+        {
+          "name": "Contract Simplification",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Vet Health Group",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Green",
+      "children": [
+        {
+          "name": "VHG Medical Affairs Transformation",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Connected Solutions",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Green",
+      "children": [
+        {
+          "name": "VHG Pet Data Platform",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Digital Demand",
+      "size": 1.5,
+      "category":"Tower",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "eContent",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "size": 1.5,
+      "category":"Tower"
+    },
+    {
+      "name": "Traceability",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Luc Breton",
+          "weight": 1
+        },
+        {
+          "name": "Tyler Pakradooni",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Approach for next PNE deployment presented to PNE steerco (new deployment approach - sprints / agile)<br><br>Wider traceability proposal in review; 9 stakeholder interviews completed",
+      "nextSteps": "Mobilization of PNE sprint team<br><br>Review of Accenture proposal for rapid Veritas rollout.",
+      "needsToChange": "Less time than expected from stakeholders to confirm key inputs for proposal - risk of delays and missed information <br><br>Rolling out Veritas at scale and pace will require very different program governance and business ownership than exists today. IT innovation and efficiency can help but not sufficient"
+    },
+    {
+      "name": "MWC",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Will Beery",
+          "weight": 1
+        },
+        {
+          "name": "James Baker",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Canada and UK legal entity live.  Top to top meetings established with Romain / Will around how to shift to new model and provide more strategic level of support.",
+      "nextSteps": "'Fresh Eyes' assessment in March to review MWC risks & dependencies (Terms of Reference for review to be agreed with Romain & Will)",
+      "needsToChange": "Accenture mgmt. attention on talent and risk items flagged; Recommend a specific deep dive into MWC post assessment "
+    },
+    {
+      "name": "Digital Foundations Analytics",
+      "shortName": "Digital F. Analytics",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Red",
+      "children": [
+        {
+          "name": "Linden Glen",
+          "weight": 1
+        },
+        {
+          "name": "Andrew Waterer",
+          "weight": 1
+        }
+      ],
+      "accomplished": "6 Agile sprints complete, data migrated, business and integration testing progressing well, dashboard performance improvements delivered. Key risk around performance and platform stability. BPD use case progressing to plan. ",
+      "nextSteps": "Conclude commercials for next phase of SRM analytics. Begin  local Market based self-service development and reports. Ramp up Germany users, full go-live in UK & DE in May",
+      "needsToChange": "Continue to improve solution performance and SAP HANA platform and services"
+    },
+    {
+      "name": "Compass",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Etienne Delille",
+          "weight": 1
+        },
+        {
+          "name": "C Schneider",
+          "weight": 1
+        },
+        {
+          "name": "Ann-Marie Everard",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Germany Live and Ireland going live; positive momentum in China (after some teething problems)",
+      "nextSteps": "UK deployment next and France to follow. Accenture looking at new approach for Compass rollout (to optimize cost & speed)",
+      "needsToChange": "Workshop on what it will take to successfully deploy TPM / Compass at pace across remaining markets"
+    },
+    {
+      "name": "iPaaS",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Green",
+      "children": [
+        {
+          "name": "Joe Carlin",
+          "weight": 1
+        },
+        {
+          "name": "Martin Sharkey",
+          "weight": 1
+        }
+      ],
+      "accomplished": "C4E mobilized, on track with first phase activities",
+      "nextSteps": "Use Case development and 'evangelization' roadshows",
+      "needsToChange": "None - progressing well"
+    },
+    {
+      "name": "NA Petcare ATLAS",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Green",
+      "children": [
+        {
+          "name": "Sonia Carvalho",
+          "weight": 1
+        },
+        {
+          "name": "Srikanth Chowdary",
+          "weight": 1
+        }
+      ],
+      "accomplished": "External 'Fresh Eyes' assessment completed. Accenture has made specific recommendations on what is required to: <ol><li>close hypercare for Waves 1-4</li><li>drive engagement, manage risk and ensure adoption of solution for the upcoming go-live (Wave 5)</li></ol>Recommendations were presented to Mark Johnson & team in Feb.",
+      "nextSteps": "Accenture will provide additional support (via an SOW with fixed price / business outcomes) and will shortly be onboarding a team to support key activities in Wave 5 go-live",
+      "needsToChange": "Recommend workshop to look at ways SAP projects are being delivered across the industry (and other industries) with modern methodologies (to drive efficiencies, business value and accelerated timelines)"
+    },
+    {
+      "name": "Shift to Fixed - 12 weeks",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Anna Jones",
+          "weight": 1
+        },
+        {
+          "name": "Matt Stebbings",
+          "weight": 1
+        },
+        {
+          "name": "Stewart Gerson",
+          "weight": 1
+        },
+        {
+          "name": "James Baker",
+          "weight": 1
+        }
+      ],
+      "accomplished": "New Contracts have been utilizing shorter timeframes and Fixed Fee, where appropriate",
+      "nextSteps": "Agree 'short form' contract; Align firm plan and timing to move work with business and commercial.",
+      "needsToChange": "Execution of the plan to shift existing capacity portfolio into fixed price SOW's will require additional capacity both from the business and commercial teams."
+    },
+    {
+      "name": "Contract Simplification",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Anna Jones",
+          "weight": 1
+        },
+        {
+          "name": "Stewart Gerson",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Shared mutual vision; Mars is working on simplified contract documents",
+      "nextSteps": "Mars to socialize new contract prototypes and align with Accenture",
+      "needsToChange": "Need to move faster to enable the teams to accelerate through shift."
+    },
+    {
+      "name": "VHG Medical Affairs Transformation",
+      "shortName": "VHG Medical Affairs T",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Green",
+      "children": [
+        {
+          "name": "John in de Braekt",
+          "weight": 1
+        },
+        {
+          "name": "Nick Wilson",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Completed initial clinical pathway design thinking workshop with 15 VHG clinicians<br><br>Completed 1 clinical site visit; 9 scheduled for w/c Mar 12 in PA, CT, and NY<br><br>Finalized Med Affairs platform definition with CMOs and aligned on chapters of repeatable playbook for pathway design",
+      "nextSteps": "Field site visits to gather data<br><br>Complete consumer quant survey of diabetes pet owners to understand willingness-to-pay, key challenges, and decisions on vet choice<br><br>Debrief key observation findings within business units<br><br>Close workshop to debrief and define target pathway options & prioritize improvements",
+      "needsToChange": "Large amount of organization change management required to bring people along the journey.  Team watching multiple threads of transformation to assure alignment"
+    },
+    {
+      "name": "Digital Identity",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Green",
+      "children": [
+        {
+          "name": "Matt Pecorelli",
+          "weight": 1
+        },
+        {
+          "name": "Sid Srivastava",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Initial Discussion with Mars  about a workshop to explore/discuss about a possible IDM roadmap for Mars. ",
+      "nextSteps": "Finalize finalized agenda and date",
+      "needsToChange": "Work with Andrew to clarify priority vs. other items from 3/9 visit."
+    },
+    {
+      "name": "AP Transformation",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Green",
+      "children": [
+        {
+          "name": "Raja Bondada",
+          "weight": 1
+        },
+        {
+          "name": "Joel Janney",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Joint agreement on transformation plan and roadmap",
+      "nextSteps": "Execution of initiatives and automations; Get contract agreement in place to extend NA scope",
+      "needsToChange": "Alignment between business and commercial on most pragmatic way forward with extension agreement; support for some process standardization will be required; IT support for tools required for automation plans"
+    },
+    {
+      "name": "VHG Pet Data Platform",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Green",
+      "children": [
+        {
+          "name": "Matt Keylock",
+          "weight": 1
+        },
+        {
+          "name": "Nick Wilson",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Defined business rules to map the Banfield data set into the key clinical diagnostic pathway actions<br><br>Aligned and defined business rules on 7 dimensions for standard patient cohort analysis<br><br><br><br>Completed initial single-dimension cohort analysis by diagnostic test and aligned on multi-dimensional analysis for w/c Mar 12<br><br>Defined business rules to identify common comorbid conditions with diabetes as well as treatment business rules",
+      "nextSteps": "Patient cohort definition and groupings analysis to find common groupings of patients and tests<br><br>Pathway treatment analysis to identify common groupings of diagnostic tests and downstream differential outcomes<br><br>Definition of common outcome measurement set for diabetes pathway to define 'good' and establish a baseline measurement<br><br>Definition of a repeatable process to consistently drive analysis of a given pathway (beyond diabetes)",
+      "needsToChange": "Effective pathway analysis will require data modelling amongst Bluepearl, Banfield, and Petpartners data set; current data use agreements are not in place, limiting analysis to just Banfield (primary care population)"
+    },
+    {
+      "name": "eContent",
+      "size": 1,
+      "category":"Initiative",
+      "status": "Amber",
+      "children": [
+        {
+          "name": "Molly Schonthal",
+          "weight": 1
+        },
+        {
+          "name": "Sulynn Amhrein",
+          "weight": 1
+        },
+        {
+          "name": "Fabio Morana",
+          "weight": 1
+        },
+        {
+          "name": "Ashish Jandial",
+          "weight": 1
+        }
+      ],
+      "accomplished": "Product: delivered for Pet Care US hybrids PCMl, however change in approach for strategic platform. Embraced Salsify for Pet Care US and most likely for the other roll-outs as well<br><br>Brand: Delivered OpenText DAM (OTMM) successfully for Confectionery, Skittles and 5 live with a Test and Learn since December. Assisting Mars with (OTMM) OpenText platform issues through Accenture alliance.",
+      "nextSteps": "Assess new BPM platform to improve the workflows delivery; Continue to deliver DAM capability",
+      "needsToChange": "Product: Accenture team advises that Mars complete a full gap analysis on Salsify prior to a 'test and learn' roll out to avoid further cost and delays down the road. <br><br>Brand: Given the movement of Marketing to shift to smaller, more agile workflows, there is a risk of a lack of integrate back into the foundational Digital Assessment Management capability - the team should have an approach that allows the speed and flexibility of the local solutions that still requires the core integrations to provide the full picture of capability."
+    },
+    {
+      "name": "Luc Breton",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Tyler Pakradooni",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/tyler-pakradooni.jpg"
+    },
+    {
+      "name": "Will Beery",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "James Baker",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Linden Glen",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Andrew Waterer",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/andrew-waterer.jpg"
+    },
+    {
+      "name": "Etienne Delille",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "C Schneider",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Ann-Marie Everard",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Joe Carlin",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Martin Sharkey",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Sonia Carvalho",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Srikanth Chowdary",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Anna Jones",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Matt Stebbings",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Stewart Gerson",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "James Baker",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "John in de Braekt",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Nick Wilson",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Matt Pecorelli",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Sid Srivastava",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Raja Bondada",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Joel Janney",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "John in de Braekt",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Matt Keylock",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Molly Schonthal",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Sulynn Amhrein",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Fabio Morana",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    },
+    {
+      "name": "Ashish Jandial",
+      "size": 1,
+      "category":"Owners",
+      "description": "Add description here",
+      "link": "http://www.owner-url.com",
+      "img": "img/owners/people.jpg"
+    }
+  ],
+  "base": {
+    "name": "Research"
+  }
+}

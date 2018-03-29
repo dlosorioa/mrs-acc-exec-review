@@ -1,0 +1,941 @@
+{
+  "nodes": [
+    {
+      "name": "Research",
+      "img": "/sites/default/files/images/research-network/research.jpg",
+      "link": "https://arch.gatech.edu/research",
+      "expand": 1,
+      "root": 1,
+      "size": 2.5,
+      "category": "Concentrations",
+      "description": "At Georgia Tech, inquisitiveness is an essential trait of the culture of design, and research is the fundamental activity by which we advance this aspiration. Faculty pursue rigorous, creative programs of scholarship and research in architecture across the grain and between the cracks of the sciences and humanities, technologies and practices. This work inspires a deepened appreciation of our multiple contexts while setting the stage for progress both in the profession and in society at large. It is simply the driving force for all we do.",
+      "children": [
+        {
+          "name": "Architecture, Culture & Behavior",
+          "weight": 1
+        },
+        {
+          "name": "Design Technology",
+          "weight": 1
+        },
+        {
+          "name": "History, Theory, Criticism",
+          "weight": 1
+        },
+        {
+          "name": "Urbanism",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Architecture, Culture & Behavior",
+      "link": "https://arch.gatech.edu/architecture-culture-behavior",
+      "img": "/sites/default/files/images/research-network/architecture-culture-behavior.jpg",
+      "description": "Research in the SoA in Architecture, Culture and Behavior (ACB) develops tools, models and theories for better understanding, quantifying and evaluating the performance of built space relative to its human functions.",
+      "size": 2,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Evidence Based Design | Design & Health",
+          "weight": 1
+        },
+        {
+          "name": "Space Syntax",
+          "weight": 1
+        },
+        {
+          "name": "SimTiGrate Lab",
+          "weight": 1
+        },
+        {
+          "name": "Digital Building Lab",
+          "weight": 1
+        },
+        {
+          "name": "IPaT | Institute of People and Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Evidence Based Design | Design & Health",
+      "shortName":"Design & Health",
+      "link": "https://arch.gatech.edu/evidence-based-design-design-health",
+      "img": "/sites/default/files/images/research-network/evidence-based-design-design-and-health.jpg",
+      "description": "Evidence-based design (EBD) research creates credible evidence linking design decisions to individual and organizational outcomes and makes these findings usable for designers and decision-makers. It has helped make hospitals safer and less stressful for millions of patients, schools better for students and workplaces more effective. In coursework, dissertations and funded research, SoA EBD work with hospital systems, corporate partners, design firms, and research collaborators inside and outside Georgia Tech, including Psychology, Systems Engineering and Computer Science, to explore questions such as how the layout of hospitals and clinics can affect patient health, satisfaction, experience and sleep, how building design can support collaboration and coordination among care teams, how Ebola centers can be best designed to eliminate infection risk, and other issues. SoA EBD researchers have also examined how the design of buildings and sites can support everyday physical activity, how courthouses can be designed to improve the transparency of the legal system, and other issues.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Craig Zimring",
+          "weight": 1
+        },
+        {
+          "name": "Lisa Lim",
+          "weight": 1
+        },
+        {
+          "name": "SimTiGrate Lab",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | Design & Health",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Architecture, Culture, Behavior",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Craig Zimring",
+      "link": "https://arch.gatech.edu/people/craig-zimring",
+      "img": "/sites/default/files/images/research-network/craig-zimring.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "An environmental psychologist and professor of architecture, Dr. Zimring and his multidisciplinary research group of associated faculty and PhD students focus on understanding the relationships between the physical environment of healthcare and other facilities and human satisfaction, performance, and behavior."
+    },
+    {
+      "name": "Lisa Lim",
+      "link": "https://arch.gatech.edu/people/lisa-lim",
+      "img": "/sites/default/files/images/research-network/lisa-lim.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Lisa Lim is a designer and researcher in architecture with academic and practical backgrounds. Lisa is currently pursuing her doctorate in the Architecture, Culture, & Behavior concentration, under the guidance of Prof Craig Zimring. Her primary focus is providing better environments with the emphasis on users, dwellers of the space."
+    },
+    {
+      "name": "Jennifer Dubose",
+      "title": "Jennifer R. Dubose",
+      "shortName": "Jennifer R. Dubose",
+      "link": "https://arch.gatech.edu/people/jennifer-r-dubose",
+      "img": "/sites/default/files/images/research-network/jennifer-r-dubose.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Jennifer R. DuBose is a research associate with the College of Architecture at the Georgia Institute of Technology where she is responsible for project development and management. Her research focuses on evidence-based design for healthcare facilities projects including the development of a business case for evidence-based design, collaboration on the exhaustive 2008 literature review on the subject and investigating the role of innovation in improving design for healthcare systems."
+    },
+    {
+      "name": "Space Syntax",
+      "link": "https://arch.gatech.edu/space-syntax",
+      "img": "/sites/default/files/images/research-network/space-syntax.jpg",
+      "size": 1.5,
+      "category": "Concentrations",
+      "description": "Space syntax is a descriptive theory of the perceptual and functional affordances of inhabited space that are relevant to its cognitive and social intelligibility, thus to its planning, design and use. It deals with the representation and quantification of spatial relationships embedded in buildings and cities.",
+      "children": [
+        {
+          "name": "John Peponis",
+          "weight": 1
+        },
+        {
+          "name": "Sonit Bafna",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Architecture, Culture, Behavior",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "John Peponis",
+      "link": "https://arch.gatech.edu/people/john-peponis",
+      "img": "/sites/default/files/images/research-network/john-peponis.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "John Peponis was born in Athens, Greece, in 1955. His publications address the geometric and computational foundations of space syntax; the spatial culture of buildings and cities; design formulation and design languages; spatial cognition; work environments; museums."
+    },
+    {
+      "name": "Sonit Bafna",
+      "link": "https://arch.gatech.edu/people/sonit-bafna",
+      "img": "/sites/default/files/images/research-network/sonit-bafna.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Sonit Bafna studies the principles that shape the built environment and govern its relationship with social, cultural, and imaginative life. His work focuses on the mathematical description of spatial organization in buildings, on empirical studies of the relationship between space and behavior, and on historical and critical explanations of design."
+    },
+    {
+      "name": "Design Technology",
+      "link": "https://arch.gatech.edu/design-technology",
+      "img": "/sites/default/files/images/research-network/design-technology.jpg",
+      "description":"Digital information technologies have profoundly affected architectural discourse and practice. New types of representation and manufacturing, emergent materials and technologies, innovating modes of collaboration and project delivery, all constitute a profoundly new discourse that has revolutionized the ways architects design, think and talk about architecture, design and buildings. The Design Technology area addresses this emergent all-encompassing computational basis for architectural design both through a set of discrete tracks of study and research as well as through projects of synthesis and a culture of school wide exchange. The work draws upon relations with other disciplines at Georgia Tech including allied fields within the College of Architecture as well as the Colleges of Computing, Engineering, Sciences, Business, and the Liberal Arts.",
+      "size": 2,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Computational Design",
+          "weight": 1
+        },
+        {
+          "name": "Building Information, Data and Interoperability",
+          "weight": 1
+        },
+        {
+          "name": "Design Computation",
+          "weight": 1
+        },
+        {
+          "name": "High Performance Building",
+          "weight": 1
+        },
+        {
+          "name": "Materials and Assemblies",
+          "weight": 1
+        },
+        {
+          "name": "Net Zero Housing",
+          "weight": 1
+        },
+        {
+          "name": "Digital Fabrication Lab",
+          "weight": 1
+        },
+        {
+          "name": "Digital Building Lab",
+          "weight": 1
+        },
+        {
+          "name": "Shape Computation Lab",
+          "weight": 1
+        },
+        {
+          "name": "SimTiGrate Lab",
+          "weight": 1
+        },
+        {
+          "name": "IPaT | Institute of People and Technology",
+          "weight": 1
+        },
+        {
+          "name": "Institute for Robotics and Intelligent Machines",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Computational Design",
+      "link": "https://arch.gatech.edu/computational-design",
+      "img": "/sites/default/files/images/research-network/computational-design.jpg",
+      "description":"The computational design program focuses on how digital technologies impact the design process, production and the resulting forms and products. Aspects of computational design are explored throughout the community, through research, educational coursework and real world applications. These School offers numerous courses on aspects of computational design, including formal and geometric study, parametric, scripting and automation. Student teams and faculty professional work extend this study to real world applications.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Tristan Al-Haddad",
+          "weight": 1
+        },
+        {
+          "name": "Daniel Baerlecken",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | Digital Design & Fabrication",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Design Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Tristan Al-Haddad",
+      "link": "https://arch.gatech.edu/people/tristan-al-haddad",
+      "img": "/sites/default/files/images/research-network/tristan-al-haddad.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Tristan Al-Haddad holds a Master of Architecture degree as well as a B.S. in Architecture from Georgia Tech, also having studied at the University of Paris - La Villette and at the Daniels Center for Building Technology and Urban Design in Genoa, Italy. As an assistant professor in the School of Architecture, Al-Haddad has helped to lead the College's efforts in appropriating and radicalizing digital technologies for architectural design purposes."
+    },
+    {
+      "name": "Daniel Baerlecken",
+      "link": "https://arch.gatech.edu/people/daniel-baerlecken",
+      "img": "/sites/default/files/images/research-network/daniel-baerlecken.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Daniel Baerlecken is an Assistant Professor of Architecture in the School of Architecture at the Georgia Institute of Technology. His research and teaching is focused on digital design and design methodologies, which relate to the evolution of new paradigms in architectural design and practice through technology, fabrication, and performative aspects."
+    },
+    {
+      "name": "Building Information, Data and Interoperability",
+      "shortname": "BIM, Data and Interoperability",
+      "link": "https://arch.gatech.edu/building-information-data-and-interoperability",
+      "img": "/sites/default/files/images/research-network/building-information-data-and-interoperability.jpg",
+      "description":"Building Information Modeling is one of the most important recent technical developments of professional practice, and the School houses world leading expertise in this field. The Digital Building Lab is one of the leading international institutions in the study of the technical and practice impacts of BIM. The DBL brings students, professional firms, technology companies and industry advancement organizations together to define the technical standards, design and building process changes, and economic and legislative impacts of redefining practice through new information modeling and management paradigms.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Charles Eastman",
+          "weight": 1
+        },
+        {
+          "name": "Dennis Shelden",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | Digital Design & Fabrication",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Design Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Keith Kaseman",
+      "link": "https://arch.gatech.edu/people/keith-kaseman",
+      "img": "/sites/default/files/images/research-network/keith-kaseman.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Keith Kaseman is a designer, advanced production strategist and architectural educator. As Partner of KBAS, a spatial design practice launched in 2002 with Julie Beckman upon having their competition entry selected for the Pentagon Memorial (2002-2008), Keith continues to lead the digitally agile office through a diverse array of work, consistently achieving high levels of material and geometric precision across multiple scopes and scales of deployment."
+    },
+    {
+      "name": "Charles Eastman",
+      "link": "https://arch.gatech.edu/people/charles-eastman",
+      "img": "/sites/default/files/images/research-network/chuck-eastman.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Professor Eastman's teaching and research is in the areas of Building Information Modeling, solids and parametric modeling, engineering databases, and product models and interoperability. He also is an active researcher in design cognition and cognitive science."
+    },
+    {
+      "name": "Dennis Shelden",
+      "link": "https://arch.gatech.edu/people/dennis-r-shelden",
+      "img": "/sites/default/files/images/research-network/dennis-shelden.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Dennis Shelden is an expert is applications of digital technology to building design, construction and operations. His experience spans across professorial practice, technology development, research and academia, in multiple architecture, building engineering and computing disciplines."
+    },
+    {
+      "name": "Design Computation",
+      "link": "https://arch.gatech.edu/design-computation",
+      "img": "/sites/default/files/images/research-network/design-computation.jpg",
+      "description":"Design computation explores the theoretical and practical basis design as a computational premise. The possibility of design is viewed through the lens of the history and theoretical foundations of fields as diverse as mathematics, logic, linguistics and cybernetics. The Architecture program is one of the leading institutions in the study of Shape Grammars – an area of study that views architectural drawing as a formal logic of geometric shapes. The Shape Computation Lab within the Architecture program is one of the leading institutions in the study of Shape Grammars – an area of study that views architectural drawing as a formal logic of geometric shapes - and conducts research in defining the language languages of diverse historical and contemporary architecture, from classical through modernist architects to hospitals and courthouses.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Athanassios Economou",
+          "weight": 1
+        },
+        {
+          "name": "Dennis Shelden",
+          "weight": 1
+        },
+        {
+          "name": "Charles Eastman",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | Digital Design & Fabrication",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Design Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Athanassios Economou",
+      "link": "https://arch.gatech.edu/people/athanassios-economou-0",
+      "img": "/sites/default/files/images/research-network/athanassios-economou.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Thanos Economou is Professor in the College of Design at the Georgia Institute of Technology. Dr. Economou's teaching and research is in the areas of shape grammars, computational design, computer-aided design and design theory, with over forty published papers in these areas."
+    },
+    {
+      "name": "High Performance Buildings",
+      "link": "https://arch.gatech.edu/high-performance-building",
+      "img": "/sites/default/files/images/research-network/high-performance-buildings.jpg",
+      "description":"Creating high performance buildings requires that we are able to design, verify, and guarantee the type of systems that meet the highest expectations of the client and society. The technical performance of buildings is the result of the complex interplay of highly variable boundary conditions driving the physical behavior of many components operating in multiple interacting domains such as heat and mass transfer, fluid mechanics, light, and acoustics, all orchestrated by increasingly intelligent building controls. Building performance modeling, simulation, and optimization contribute to an overall integrated approach for performance understanding and improvement, while sensor networks and embedded intelligent systems are increasingly integrating this intelligence directly into the built environment.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Godfried Augenbroe",
+          "weight": 1
+        },
+        {
+          "name": "Jason Brown",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | High Performance Buildings",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Design Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Godfried Augenbroe",
+      "link": "https://arch.gatech.edu/people/godfried-l-augenbroe",
+      "img": "/sites/default/files/images/research-network/godfried-augenbroe.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Godfried Augenbroe has a 35 year track record of teaching and research in the building science. His main expertise is in modeling and simulation of buildings at various scales. He is internationally recognized in promoting professional use of building simulation and has served on the board of the International Building Performance Simulation Association (IBPSA)."
+    },
+    {
+      "name": "Jason Brown",
+      "link": "https://arch.gatech.edu/people/jason-brown",
+      "img": "/sites/default/files/images/research-network/jason-brown.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Jason Brown received his BS in Engineering from Baylor University and his MS in Mechanical Engineering and Ph.D. in Architecture degrees from Georgia Tech. Prior to working in architecture, he engaged in experimental fluid mechanics with applications in biological cell culture, the sensory ecology of marine plankton, and the carbon cycle in the oceans."
+    },
+    {
+      "name": "Materials and Assemblies",
+      "link": "https://arch.gatech.edu/materials-and-assemblies",
+      "img": "/sites/default/files/images/research-network/materials-and-assemblies.jpg",
+      "description":"Recent architectural discourse places a renewed interest in the connection between design and making, recognizing that how building elements are created has a direct impact on the formal and performance aspects of the project. The School of Architecture has numerous resources that contribute to a world class inquiry into the spectrum of concerns surrounding fabrication, new materials and new ways of thinking about manufactured buildings systems.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Russell Gentry",
+          "weight": 1
+        },
+        {
+          "name": "Daniel Baerlecken",
+          "weight": 1
+        },
+        {
+          "name": "Tristan Al-Haddad",
+          "weight": 1
+        },
+        {
+          "name": "Keith Kaseman",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | Digital Design & Fabrication",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Design Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Russell Gentry",
+      "link": "https://arch.gatech.edu/people/russell-gentry",
+      "img": "/sites/default/files/images/research-network/russell-gentry.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Russell Gentry is an Associate Professor of Architecture and Civil Engineering (by courtesy) and a licensed structural engineer. He teaches graduate courses in building structures, computationally-driven fabrication and construction, and building integration. He is affiliated with the design computing faculty in the School of Architecture and the structural engineering and mechanics of materials faculty in the School of Civil Engineering. He is the faculty advisor for the Master of Science degree in Digital Design and Fabrication."
+    },
+    {
+      "name": "Net Zero Housing",
+      "link": "https://arch.gatech.edu/net-zero-housing",
+      "img": "/sites/default/files/images/research-network/net-zero-housing.jpg",
+      "description":"The School of Architecture’s housing and energy research group seeks to expand 21st century housing options to meet the needs of changing urban demographics, sustainability targets, and alternative energy requirements. Long term, multivalent focus on what constitutes a viable public and affordable private realm is at the core of our effort. Faculty and students from architecture, building construction, high performance building, and engineering, with diverse backgrounds in design and science, contribute to this growing body of knowledge.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Michael Gamble",
+          "weight": 1
+        },
+        {
+          "name": "Jason Brown",
+          "weight": 1
+        },
+        {
+          "name": "Godfried Augenbroe",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Architecture | High Performance Buildings",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Design Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Michael Gamble",
+      "link": "https://arch.gatech.edu/node/1388",
+      "img": "/sites/default/files/images/research-network/michael-gamble.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Michael is a registered architect, director of graduate studies at Georgia Tech’s School of Architecture, and creative director at Gamble + Gamble Architects in Atlanta. His design-driven research operates at a variety of scales, from house to city, with emphases on innovation, alternative energy, and building technology pursued within the context of a larger concern for the creation of healthy, well-conceived environments."
+    },
+    {
+      "name": "History, Theory, Criticism",
+      "link": "https://arch.gatech.edu/history-theory-criticism-0",
+      "img": "/sites/default/files/images/research-network/history-theory-criticism.jpg",
+      "description":"Georgia Tech's School of Architecture has a distinguished tradition of innovative scholarship in the field of History, Theory, and Criticism. Drawing on the unique range of disciplines and professions within the College and the Institute, faculty contribute to a growing field of cross-cultural studies and interdisciplinary scholarship that use concepts from humanistic, social scientific, and technical disciplines, some traditionally seen as outside the purview of architectural history and theory in order to better understand the material, spatial, intellectual, and ideological dimensions of the physical world. To this end, linkages have been established with the School of Literature, Media, and Communication and with the School of History, Technology, and Society at Georgia Tech’s Ivan Allen College of Liberal Arts.",
+      "size": 2,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Aesthetic Theory",
+          "weight": 1
+        },
+        {
+          "name": "History of Architectural Practice",
+          "weight": 1
+        },
+        {
+          "name": "Stadia",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Aesthetic Theory",
+      "link": "https://arch.gatech.edu/aesthetic-theory",
+      "img": "/sites/default/files/images/research-network/aesthetic-theory.jpg",
+      "description":"Much of the work is the sub-field of Aesthetic Theory addresses the relationship between modes of representation, theories of design, and the discipline and practice of architecture. Likewise, there is attendant interest in the relationship between modes of formal production and architectural design. For instance, there is substantial scholarship and teaching examining the work of figures such as John Ruskin, both in his historical context as well as his impact on contemporary thought.",
+      "size": 1,
+      "category":"Concentrations",
+      "children": [
+        {
+          "name": "Jude LeBlanc",
+          "weight": 1
+        },
+        {
+          "name": "Lars Spuybroek",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Lars Spuybroek",
+      "link": "https://arch.gatech.edu/people/lars-spuybroek",
+      "img": "/sites/default/files/images/research-network/lars-spuybroek.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Lars Spuybroek has been researching the relationship between art, architecture and computing since the early 1990s. He received international recognition after building the HtwoOexpo in 1997, the first building in the world that incorporates new media and consists of a continuous geometry."
+    },
+    {
+      "name": "History of Architectural Practice",
+      "link": "https://arch.gatech.edu/history-architectural-practice",
+      "description":"Faculty research on the History of Architectural Practice examines the social, historical, and cultural implications of making architecture in the American context. Among the primary concerns animating this research are the technological transformation of the profession over the past several decades as well as questions about how the profession of architecture, through both traditional tools and novel technologies, both perpetuates and challenges social and cultural conventions.",
+      "img": "/sites/default/files/images/research-network/history-of-architectural-practice.jpg",
+      "size": 1,
+      "category":"Concentrations",
+      "children": [
+        {
+          "name": "George Johnston",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "George Johnston",
+      "link": "https://arch.gatech.edu/people/george-johnston",
+      "img": "/sites/default/files/images/research-network/george-johnston.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "George B. Johnston is Professor of Architecture at Georgia Tech and principal of Johnston+Dumais [architects]. He has over 35 years of experience as an architect, educator, academic leader, and cultural historian. He teaches courses in architectural and urban design, cultural theory, and social history of architectural practice; and his research interrogates the social, historical, and cultural implications of making architecture in the American context."
+    },
+    {
+      "name": "Stadia",
+      "link": "https://arch.gatech.edu/stadia",
+      "img": "/sites/default/files/images/research-network/stadia.jpg",
+      "description":"Sport and architecture are two elements of contemporary life that have a broad and profound impact on the world around us. The role architecture plays in shaping buildings and societies has occupied historians for centuries. Likewise the cultural, economic, and political importance of sport is the subject of sustained academic inquiry. When sport and architecture converge, as in the 2012 London Olympics or the 2014 World Cup in Brazil, then the impact of these two forms of social activity is redoubled. Research at the School of Architecture focuses on the ways these structures are constructed, the ends to which they are used, and the nature of public reaction to them.",
+      "size": 1,
+      "category":"Concentrations",
+      "children": [
+        {
+          "name": "Benjamin Flowers",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Flowers",
+      "link": "https://arch.gatech.edu/people/benjamin-flowers",
+      "img": "/sites/default/files/images/research-network/benjamin-flowers.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Benjamin Flowers joined the faculty of architecture in 2005. His work examines architecture as a form of social activity situated within the intersecting spheres of politics, culture, and economy. Looking in particular at skyscrapers and stadiums, he focuses on the ways these structures are constructed, the ends to which they are used, and the nature of public reaction to them."
+    },
+    {
+      "name": "Urbanism",
+      "link": "https://arch.gatech.edu/urbanism",
+      "img": "/sites/default/files/images/research-network/urbanism.jpg",
+      "description":"Our research into urbanism seeks to understand how we shape our cities to provide the highest quality of life, share resources equitably, promote ecological performance and address unprecedented 21st century challenges. Highly collaborative, researchers in urbanism partner with sponsors around the planet and colleagues across Georgia Tech – especially those in the highly ranked School of Civil and Environmental Engineering and School of City and Regional Planning.",
+      "size": 2,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Ecological Infrastructure",
+          "weight": 1
+        },
+        {
+          "name": "Spatial Morphology",
+          "weight": 1
+        },
+        {
+          "name": "Retrofitting Suburbia",
+          "weight": 1
+        },
+        {
+          "name": "Smart Cities",
+          "weight": 1
+        },
+        {
+          "name": "Eco Urban Lab",
+          "weight": 1
+        },
+        {
+          "name": "IPaT | Institute of People and Technology",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Ecological Infrastructure",
+      "link": "https://arch.gatech.edu/ecological-infrastructure",
+      "img": "/sites/default/files/images/research-network/ecological-infrastructure.jpg",
+      "description":"In the emerging era of environmental concerns, extending from degradation to resource depletion and climate change, urban infrastructure is being reimagined. Beyond the “hard” physical structures and systems necessary for the secure, healthy and efficient functioning of cities, new “soft” blue and green infrastructures are providing eco-system services at multiple scales. Ecological infrastructure is fundamental to urban design, weaving together community design and environmental engineering. The Sino-US Eco-Urban Lab, a joint effort by Tongji University and Georgia Tech, combines multiple disciplines in international research settings for quantitative performance measures of urban infrastructure and urban form.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Richard Dagenhart",
+          "weight": 1
+        },
+        {
+          "name": "Perry Yang",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Urban Design",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Urbanism",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Richard Dagenhart",
+      "link": "https://arch.gatech.edu/people/richard-dagenhart",
+      "img": "/sites/default/files/images/research-network/richard-dagenhart.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Professor Dagenhart’s teaching focuses on urban design, weaving ecological infrastructure with contemporary real estate development. His recent Design+Research Studios include: Eco-City Design Strategies – Chongming Island, Shanghai;  I-85 Mission Zero Ray Anderson Sustainable Highway;  Chattahoochee  River Park Vision and Project Proposals,  and Urban Design Strategies for Climate Change and Sea Level Rise along the Georgia Coast."
+    },
+    {
+      "name": "Perry Yang",
+      "link": "https://arch.gatech.edu/people/perry-yang",
+      "img": "/sites/default/files/images/research-network/perry-yang.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Perry Yang is an Associate Professor jointly appointed to School of City and Regional Planning and School of Architecture at the Georgia Institute of Technology. He is also the Bayer (Covestro) Chair Professor at the United Nations Environment Program (UNEP)- Tongji Institute of Environment for Sustainable Development in Shanghai."
+    },
+    {
+      "name": "Spatial Morphology",
+      "link": "https://arch.gatech.edu/spatial-morphology",
+      "img": "/sites/default/files/images/research-network/spatial-morphology.jpg",
+      "description": "Studies in spatial morphology model the interaction of physical measures of the city, ranging from block shape and size, the distance between intersections, or the density of streets in an area, to the syntactic structure of street networks as described by measures of street network connectivity, street alignment, and network centrality. The quantitative models of the physical fabric of the city provide a basis for the development of more complex models that link physical form to aspects of urban function that range from the distribution of land uses to the distribution of movement, vehicular and pedestrian. The aim is to provide benchmarks, guidance and evaluative tools to urban design and master-planning.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "John Peponis",
+          "weight": 1
+        },
+        {
+          "name": "Sonit Bafna",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Urbanism",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Retrofitting Suburbia",
+      "link": "https://arch.gatech.edu/retrofitting-suburbia-0",
+      "img": "/sites/default/files/images/research-network/retrofitting-suburbia.jpg",
+      "description":"The world’s only database tracking retrofits of dead malls, big box stores, office parks, medical campuses, commercial strips, garden apartment complexes, golf course communities, etc., into more sustainable places is housed in the SoA at Georgia Tech. Continuously updated, it is complemented by coursework in Retrofitting Suburbia, sponsored graduate design studio proposals for communities with underperforming suburban property types, research projects, lectures and workshops on Retrofits, New Urbanism, Smart Growth, Smart Cities, and Eco-Districts in Metro Atlanta and beyond.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Ellen Dunham-Jones",
+          "weight": 1
+        },
+        {
+          "name": "Michael Gamble",
+          "weight": 1
+        },
+        {
+          "name": "Sabir Khan",
+          "weight": 1
+        },
+        {
+          "name": "Jude LeBlanc",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Urban Design",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Urbanism",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Ellen Dunham-Jones",
+      "link": "https://arch.gatech.edu/people/ellen-dunham-jones",
+      "img": "/sites/default/files/images/research-network/ellen-dunham-jones.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Ellen Dunham-Jones is Coordinator of the MS in Urban Design. She teaches “Theories of Urban Design,” “Retrofitting Suburbia” and urban design studios. A leading authority on suburban redevelopment, she and June Williamson wrote Retrofitting Suburbia; Urban Design Solutions for Redesigning Suburbs (Wiley & Sons, 2009, update in 2011, mandarin edition in 2013)"
+    },
+    {
+      "name": "Sabir Khan",
+      "link": "https://arch.gatech.edu/people/sabir-khan",
+      "img": "/sites/default/files/images/research-network/sabir-khan.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "Sabir Khan joined the School of Architecture in 1995 as an assistant professor, was promoted to associate professor in 2001 and served as associate dean of undergraduate studies and creative activity from 2002 to 2011."
+    },
+    {
+      "name": "Jude LeBlanc",
+      "link": "https://arch.gatech.edu/people/w-jude-leblanc",
+      "img": "/sites/default/files/images/research-network/jude-leblanc.jpg",
+      "size": 1,
+      "category":"People",
+      "description": "W. Jude LeBlanc is an architect and an educator. His creative work, research, and teaching span the scales of urban design/planning, infrastructure, architecture, interior design, and furniture design. This work is motivated by three primary agendas, related often in tension: 1. to embody a type of modernity; 2. to preserve quality; and 3. to engage in art-related discourse."
+    },
+    {
+      "name": "Smart Cities",
+      "link": "https://arch.gatech.edu/smart-cities",
+      "img": "/sites/default/files/images/research-network/smart-cities.jpg",
+      "description":"Smart City initiatives draw on data-enriched infrastructure to create better government services, civic life and communities. New data sets from sensors, smartphones, and the sharing economy are being compiled to tell us more about activities above, below and on the ground. New technologies, from autonomous vehicles to intelligent infrastructure systems, promise to increase efficiency. They also raise many questions. Of particular interest in the School of Architecture is - what is their impact on the design of the built environment and the configuration of public space? Research is helping communities rethink the design of streets, parking, and transit systems in relation to autonomous vehicles. Studies are expanding techniques from high-performance architecture into high-performance urbanism, integrating improved delivery of public services with big data mapping and parametric technologies.",
+      "size": 1.5,
+      "category": "Concentrations",
+      "children": [
+        {
+          "name": "Ellen Dunham-Jones",
+          "weight": 1
+        },
+        {
+          "name": "Dennis Shelden",
+          "weight": 1
+        },
+        {
+          "name": "Master of Science in Urban Design",
+          "weight": 1
+        },
+        {
+          "name": "PhD in Architecture | Urbanism",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "SimTiGrate Lab",
+      "link": "http://www.simtigrate.gatech.edu/",
+      "img": "/sites/default/files/images/research-network/simtigrate-lab.jpg",
+      "size": 1,
+      "category": "Research Labs",
+      "description": "We are an interdisciplinary lab using research and simulation to improve medical experience and quality, patient safety, and ultimately patient outcomes.",
+      "children": [
+        {
+          "name": "Craig Zimring",
+          "weight": 1
+        },
+        {
+          "name": "Lisa Lim",
+          "weight": 1
+        },
+        {
+          "name": "Jennifer Dubose",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "IPaT | Institute of People and Technology",
+      "shortName": "IPaT",
+      "link": "http://ipat.gatech.edu/",
+      "img": "/sites/default/files/images/research-network/ipat-institute-of-people-and-technology.jpg",
+      "size": 1,
+      "category": "Related Programs",
+      "description": "The Institute for People and Technology (IPaT) is shaping the future of human-centered systems, environments and technologies to promote satisfying, healthy and productive lives.",
+      "children": [
+        {
+          "name": "Charles Eastman",
+          "weight": 1
+        },
+        {
+          "name": "Craig Zimring",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Digital Fabrication Lab",
+      "link": "http://www.news.gatech.edu/features/digital-fabrication-lab",
+      "img": "/sites/default/files/images/research-network/digital-fabrication-lab.jpg",
+      "size": 1,
+      "category": "Research Labs",
+      "description": "For most students in the College of Architecture, DFL stands for Digital Fabrication Lab. But for Virginia Bradbury, Katie Quigley, and Marc Whitley, DFL could just as easily stand for Dream Boat Fabrication Lab.",
+      "children": [
+        {
+          "name": "Tristan Al-Haddad",
+          "weight": 1
+        },
+        {
+          "name": "Russell Gentry",
+          "weight": 1
+        },
+        {
+          "name": "Daniel Baerlecken",
+          "weight": 1
+        },
+        {
+          "name": "Keith Kaseman",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Shape Computation Lab",
+      "link": "http://shape.gatech.edu/index.html",
+      "img": "/sites/default/files/images/research-network/shape-computation-lab.jpg",
+      "size": 1,
+      "category": "Research Labs",
+      "description": "The Shape Computation Lab explores how the visual nature of shape – and its ability to seamlessly shift and recombine to produce new opportunities for creative designers and reflective critics alike - can be formally implemented with new software technologies to assist seeing and doing in design in profoundly new ways.",
+      "children": [
+        {
+          "name": "Athanassios Economou",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Digital Building Lab",
+      "link": "https://www.dbl.gatech.edu/",
+      "img": "/sites/default/files/images/research-network/digital-building-lab.jpg",
+      "size": 1,
+      "category": "Research Labs",
+      "description": "We connect industry to research, creating innovative ways to design, build, and operate buildings, cities, and infrastructure.",
+      "children": [
+        {
+          "name": "Dennis Shelden",
+          "weight": 1
+        },
+        {
+          "name": "Charles Eastman",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Center for Robotics and Intelligent Machines",
+      "shortName":"Center for Robotics",
+      "link": "http://robotics.gatech.edu/",
+      "img": "/sites/default/files/images/research-network/center-for-robotics-and-intelligent-machines.jpg",
+      "size": 1,
+      "category":"Labs"
+    },
+    {
+      "name": "Eco Urban Lab",
+      "link": "http://www.ecourbanlab.org",
+      "img": "/sites/default/files/images/research-network/eco-urban-lab.jpg",
+      "size": 1,
+      "category":"Labs",
+      "children": [
+        {
+          "name": "Perry Yang",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "Master of Science in Architecture | Digital Design & Fabrication",
+      "title": "Master of Science in Architecture |<br>Digital Design & Fabrication",
+      "shortName":"MS Arch | Digital Design & Fab",
+      "link": "https://arch.gatech.edu/digital-design-fabrication",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "New computational tools enable a fluid exchange between processes of design and material fabrication to achieve new levels of performance and quality. But that is just the beginning of the story of how architectural practice is being remade by these exciting technologies. Changing relationships and responsibilities among designers, owners, fabricators, and managers; collaboration in problem solving and design and in the development of more effective work flows using dynamically shared, information-rich models."
+    },
+    {
+      "name": "Master of Science in Architecture | High Performance Buildings",
+      "title": "Master of Science in Architecture |<br>High Performance Buildings",
+      "shortName":"MS Arch | High Performance Buildings",
+      "link": "https://arch.gatech.edu/high-performance-buildings-0",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "It’s imperative. Reducing building energy consumption through adaptation and design has become a basic criterion of architectural practice. Available tools are making real-time energy modeling and analysis a seamless part of the design process. The aim of this program is to go even further—to deepen architects’ knowledge about basic principles and best practices and to hone their skills at the frontiers of research where truly innovative energy conservation strategies are being forged."
+    },
+    {
+      "name": "Master of Science in Architecture | Design & Health",
+      "title": "Master of Science in Architecture |<br>Design & Health",
+      "shortName":"MS Arch | Design & Health",
+      "link": "https://arch.gatech.edu/design-health",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "Case-based research focused on patient outcomes in healthcare environments suggests a compelling approach to designing healthier environments all around. Architectural and urban design decision making that is grounded in evidence born of experience and experimentation brings relevant data to bear in evaluating alternatives, managing risk, and in balancing the equation of benefits and costs."
+    },
+    {
+      "name": "Master of Science in Urban Design",
+      "shortName":"MS Urban Design",
+      "link": "https://arch.gatech.edu/master-science-urban-design",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "The world is at our doorstep, and the big challenges in the age of sustainable development transcend geographical, political, and disciplinary boundaries. World population is urbanizing with unprecedented speed, and urban designers are in high demand to help anticipate the consequences of growth, to envision strategic futures, and to design great places."
+    },
+    {
+      "name": "PhD in Architecture | Architecture, Culture, Behavior",
+      "title": "PhD in Architecture |<br>Architecture, Culture, Behavior",
+      "shortName":"PhD Arch | Architecture, Culture, Behavior",
+      "link": "https://arch.gatech.edu/phd-architecture",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "Architecture reflects and creates human experience. The evolution of organizations, economies, technologies and culture continuously redefines the way in which built space supports and makes intelligible patterns of everyday life, work, communication, collaboration, exchange, learning and creativity, or the identity of communities and institutions."
+    },
+    {
+      "name": "PhD in Architecture | Design Technology",
+      "title": "PhD in Architecture |<br>Design Technology",
+      "shortName":"PhD Arch | Design Technology",
+      "link": "https://arch.gatech.edu/phd-architecture",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "Digital information technologies have profoundly affected architectural discourse and practice. New types of representation and manufacturing, emergent materials and technologies, innovating modes of collaboration and project delivery, all constitute a profoundly new discourse that has revolutionized the ways architects design, think and talk about architecture, design and buildings."
+    },
+    {
+      "name": "PhD in Architecture | History, Theory, Criticism",
+      "title": "PhD in Architecture |<br>History, Theory, Criticism",
+      "shortName":"PhD Arch | History, Theory, Criticism",
+      "link": "https://arch.gatech.edu/phd-architecture",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "Georgia Tech's School of Architecture has a distinguished tradition of innovative scholarship in the field of History, Theory, and Criticism. Drawing on the unique range of disciplines and professions within the College and the Institute, faculty contribute to a growing field of cross-cultural studies and interdisciplinary scholarship that use concepts from humanistic, social scientific, and technical disciplines, some traditionally seen as outside the purview of architectural history and theory in order to better understand the material, spatial, intellectual, and ideological dimensions of the physical world."
+    },
+    {
+      "name": "PhD in Architecture | Urbanism",
+      "title": "PhD in Architecture |<br>Urbanism",
+      "shortName":"PhD Arch | Urbanism",
+      "link": "https://arch.gatech.edu/phd-architecture",
+      "img": "/sites/default/files/images/research-network/majors.png",
+      "size": 1,
+      "category":"Related Programs",
+      "description": "Architecture is a powerful domain of knowledge that both spatializes higher-order philosophical notions and derives conceptual models from phenomena of the physical world. Doctoral studies in architecture at Georgia Tech are strongly oriented by shared discourses of design, technology, and culture across the universe of allied and adjacent disciplines available here."
+    }
+  ]
+}
